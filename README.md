@@ -10,11 +10,13 @@ This workshop targets a general audience, assuming no prior familiarity with Pyt
 * Cultivate an awareness and an appreciation of the benefits of Python (for academic behvaioral scientists)
 * Highlight functionality provided by Python and its ecosystem
 * Note how these tools can be integrated into one's existing workflow
+
 In other words, the things you can acomplish if you adopt these tools.
 
 ## Non-goals of the workshop
 * Ability to program Python without any further learning
 * Encyclopedic knowledge of ecosystem, APIs, etc.
+
 In other words, the nitty-gritty details of usin gthese tools on a day-to-day basis.
 
 
