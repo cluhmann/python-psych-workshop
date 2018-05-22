@@ -19,13 +19,13 @@ The workshop targets a general audience, assuming no prior familiarity with Pyth
 ## Outline
 | Section        |            |   |
 | ------------- |:-------------:| :-----:|
-|1. Overview | [slides](./slides-1.pdf) | 
-|2. Ways of using Python | [slides](./slides-2.pdf) |  
-|3. Python basics | [slides](./slides-3.pdf) | [notebook](./notebook-3.ipynb)
-|4. Data set overview | [slides](./slides-4.pdf) | 
-|5. Data wrangling | [slides](./slides-5.pdf) | [notebook](./notebook-5.ipynb)
-|6. Statistics | [slides](./slides-6.pdf) | [notebook](./notebook-6.ipynb)
-|7. Plotting | [slides](./slides-7.pdf) | [notebook](./notebook-7.ipynb)
-|8. Experiment creation | [slides](./slides-8.pdf) | 
+|1. Overview | [slides](./slides/slides-1.pdf) | 
+|2. Ways of using Python | [slides](./slides/slides-2.pdf) |  
+|3. Python basics | [slides](./slides/slides-3.pdf) | [notebook](./notebooks/notebook-3.ipynb)
+|4. Data set overview | [slides](./slides/slides-4.pdf) | 
+|5. Data wrangling | [slides](./slides/slides-5.pdf) | [notebook](./notebooks/notebook-5.ipynb)
+|6. Statistics | [slides](./slides/slides-6.pdf) | [notebook](./notebooks/notebook-6.ipynb)
+|7. Plotting | [slides](./slides/slides-7.pdf) | [notebook](./notebooks/notebook-7.ipynb)
+|8. Experiment creation | [slides](./slides/slides-8.pdf) | 
 
-[Entire bundle of slides](./slides-all.pdf)
+[Entire bundle of slides](./slides/slides-all.pdf)
