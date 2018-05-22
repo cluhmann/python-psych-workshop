@@ -18,6 +18,7 @@ The workshop targets a general audience, assuming no prior familiarity with Pyth
 
 ## Outline
 
+| ------------- |:-------------:| :-----:|
 |1. Overview | [slides](./slides-1.pdf) | 
 |2. Ways of using Python | [slides](./slides-2.pdf) |  
 |3. Python basics | [slides](./slides-3.pdf) | [notebook](./notebook-3.ipynb)
