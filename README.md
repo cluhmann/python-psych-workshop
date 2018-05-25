@@ -17,7 +17,7 @@ In other words, the things you can acomplish if you adopt these tools.
 * Ability to program Python without any further learning
 * Encyclopedic knowledge of ecosystem, APIs, etc.
 
-In other words, the nitty-gritty details of usin gthese tools on a day-to-day basis.
+In other words, the nitty-gritty details of using gthese tools on a day-to-day basis.
 
 
 ## Outline
