@@ -33,3 +33,4 @@ In other words, the nitty-gritty details of usin gthese tools on a day-to-day ba
 |8. Experiment creation | [slides](./slides/slides-8.pdf) | 
 
 [Entire bundle of slides](./slides/slides-all.pdf)
+[All notebooks](./notebooks/notebooks.zip)
