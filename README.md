@@ -1,6 +1,6 @@
 # Introduction to Python
 
-Materials for **Introduction to Python** workshop, presented at the Association for Psychological Science in May of 2018.
+Materials for **Introduction to Python** workshop, presented at the annual meeting of the Association for Psychological Science in May of 2018.
 
 Python is a free, general-purpose programming language.  Two of Python's main assets are its beginner-friendly syntax and its expansive library of third-party packages.  This ecosystem of packages provides behavioral scientists with what amounts to an end-to-end data-collection and data-processing pipeline.  The packages in this pipeline provide functionality including the creation of behavioral experiments (both those conducted in the laboratory and online), data wrangling (e.g., dealing with missing data, outliers, etc.), data exploration (both desciptive and visual), statistical analysis (both frequentist and Bayesian), machine learning techniques (e.g., classification, clustering, etc.), and even the generation of publication-quality figures.
 
