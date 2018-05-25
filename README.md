@@ -32,6 +32,6 @@ In other words, the nitty-gritty details of using gthese tools on a day-to-day b
 |7. Plotting | [slides](./slides/slides-7.pdf) | [notebook](./notebooks/notebook-7.ipynb)
 |8. Experiment creation | [slides](./slides/slides-8.pdf) | 
 
-[Entire bundle of slides](./slides/slides-all.pdf)
+[All slides](./slides/slides-all.pdf)
 
 [All notebooks](./notebooks/notebooks.zip)
