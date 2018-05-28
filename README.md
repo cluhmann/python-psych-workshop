@@ -21,6 +21,7 @@ In other words, the nitty-gritty details of using gthese tools on a day-to-day b
 
 
 ## Workshop Materials
+| Materials |
 | -----------------------|:-------------------------------:|:-----:|
 |1. Overview             | [slides](./slides/slides-1.pdf) | 
 |2. Ways of using Python | [slides](./slides/slides-2.pdf) |  
