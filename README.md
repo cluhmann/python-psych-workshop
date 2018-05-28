@@ -30,8 +30,8 @@ In other words, the nitty-gritty details of using gthese tools on a day-to-day b
 |5. Data wrangling | [slides](./slides/slides-5.pdf) | [notebook](./notebooks/notebook-5.ipynb)
 |6. Statistics | [slides](./slides/slides-6.pdf) | [notebook](./notebooks/notebook-6.ipynb)
 |7. Plotting | [slides](./slides/slides-7.pdf) | [notebook](./notebooks/notebook-7.ipynb)
-|8. Experiment creation | [slides](./slides/slides-8.pdf) | [code](./psychopy-shooter-task.zip)
+|8. Experiment creation | [slides](./slides/slides-8.pdf) | <a href="./psychopy-shooter-task.zip" download>code</a>
 
-[All slides](./slides/slides-all.pdf)
+<a href="./slides/slides-all.pdf" download>All slides</a>
 
-[All notebooks](./notebooks/notebooks.zip)
+<a href="./notebooks/notebooks.zip" download>All notebooks</a>
