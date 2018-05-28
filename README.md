@@ -20,17 +20,17 @@ In other words, the things you can acomplish if you adopt these tools.
 In other words, the nitty-gritty details of using gthese tools on a day-to-day basis.
 
 
-## Outline
-| Section        |            |   |
-| ------------- |:-------------:| :-----:|
-|1. Overview |[slides](./slides/slides-1.pdf) | 
+## Workshop Materials
+| Topic                  |                                 |       |
+| -----------------------|:-------------------------------:|:-----:|
+|1. Overview             | [slides](./slides/slides-1.pdf) | 
 |2. Ways of using Python | [slides](./slides/slides-2.pdf) |  
-|3. Python basics | [slides](./slides/slides-3.pdf) | [notebook](./notebooks/notebook-3.ipynb)
-|4. Data set overview | [slides](./slides/slides-4.pdf) | 
-|5. Data wrangling | [slides](./slides/slides-5.pdf) | [notebook](./notebooks/notebook-5.ipynb)
-|6. Statistics | [slides](./slides/slides-6.pdf) | [notebook](./notebooks/notebook-6.ipynb)
-|7. Plotting | [slides](./slides/slides-7.pdf) | [notebook](./notebooks/notebook-7.ipynb)
-|8. Experiment creation | [slides](./slides/slides-8.pdf) | [code](./psychopy-shooter-task.zip)
+|3. Python basics        | [slides](./slides/slides-3.pdf) | [notebook](./notebooks/notebook-3.ipynb)
+|4. Data set overview    | [slides](./slides/slides-4.pdf) | 
+|5. Data wrangling       | [slides](./slides/slides-5.pdf) | [notebook](./notebooks/notebook-5.ipynb)
+|6. Statistics           | [slides](./slides/slides-6.pdf) | [notebook](./notebooks/notebook-6.ipynb)
+|7. Plotting             | [slides](./slides/slides-7.pdf) | [notebook](./notebooks/notebook-7.ipynb)
+|8. Experiment creation  | [slides](./slides/slides-8.pdf) | [code](./psychopy-shooter-task.zip)
 
 [All slides](./slides/slides-all.pdf)
 
