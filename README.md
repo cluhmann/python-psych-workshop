@@ -7,9 +7,9 @@ Python is a free, general-purpose programming language.  Two of Python's main as
 This workshop targets a general audience, assuming no prior familiarity with Python.  Structurally, the workshop includes an introduction to the Python language and associated environment, followed by a systematic series of illustrative examples that follow a single data set as it makes its way through the pipeline.  Ways in which researchers can integrate only a portion of the pipeline into their existing data flow (e.g., importing/exporting a variety of data formats) are highlighted as are tools of particular use in teaching contexts.
 
 ## Goals of the workshop
-* Cultivate an awareness and an appreciation of the benefits of Python (for academic behvaioral scientists)
+* Cultivate an awareness and an appreciation of the benefits of Python (for academic behavioral scientists)
 * Highlight functionality provided by Python and its ecosystem
-* Note how these tools can be integrated into one's existing workflow
+* Note how these tools, in part or in whole, can be integrated into one's existing workflow
 
 In other words, the things you can acomplish if you adopt these tools.
 
@@ -32,6 +32,3 @@ In other words, the nitty-gritty details of using these tools on a day-to-day ba
 |7. Plotting             | [slides](./slides/slides-7.pdf) | [notebook](./notebooks/notebook-7.ipynb)
 |8. Experiment creation  | [slides](./slides/slides-8.pdf) | [code](./psychopy-shooter-task.zip)
 
-[All slides](./slides/slides-all.pdf)
-
-[All notebooks](./notebooks/notebooks.zip)
